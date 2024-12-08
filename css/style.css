@@ -1,0 +1,28 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.caption{
+    left: 20px;
+    right: 20px;
+    bottom: 10px;
+}
+
+#layer{
+    background-color: rgba(0,0,0,0.5);
+}
+.inner{
+    height: 100px;
+}
+
+#close{
+    top: -30px;
+    right: 0px;
+}
+#right{
+    top: 50%;
+    right: 20px;
+}
+#left{
+    top: 50%;
+    left: 20px;
+}
